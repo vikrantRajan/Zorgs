@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+}
+a:hover {
+  color: black;
+  background: white;
+  box-shadow: 9px 9px 8px 2px gray;
+  cursor: pointer;
+}
